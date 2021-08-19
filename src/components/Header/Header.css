@@ -1,0 +1,15 @@
+.header {
+padding-top: 5rem;
+}
+
+.header__burger {
+  background: url(../../images/icon-burger.svg) no-repeat transparent;
+  width: 2.8rem;
+  height: 2.8rem;
+  background-position: 50%;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  padding: 0;
+  margin-left: 2.8rem;
+}
