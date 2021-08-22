@@ -1,0 +1,38 @@
+.popup {
+  background: #ecedef;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.25);
+  border-radius: 16px 16px 0 0;
+  pointer-events: none;
+  position: fixed;
+  top: 10%;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  z-index: 999;
+  transform: translateY(100%);
+  transition: 0.6s ease-out;
+  margin: 0 auto;
+  width: 100%;
+  height: 100%;
+
+}
+
+.popup_opened-orderitem {
+  background: #ffffff;
+  pointer-events: all;
+ position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  min-width: 320px;
+  bottom: unset;
+  transform: translateY(0%);
+}
+
+.popup_opened-orderlist {
+  pointer-events: auto;
+  visibility: visible;
+  transform: translateY(50%);
+}
+
+

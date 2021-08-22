@@ -1,0 +1,40 @@
+.singleorder {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #ecedef;
+  border-radius: 8px;
+  padding: 16px 16px;
+}
+
+.singleorder__container {
+}
+
+.singleorder__title {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 22px;
+  margin: 0;
+}
+
+.singleorder__count {
+  margin: 0;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 22px;
+  color: #888e99;
+
+}
+
+.singleorder__price {
+  margin: 0;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 19px;
+  letter-spacing: -0.1px;
+  color: #5364ff;
+
+}

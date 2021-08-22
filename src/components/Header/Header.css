@@ -1,15 +1,17 @@
 .header {
-padding-top: 5rem;
+padding-top: 50px;
+min-width: 320px;
+margin-left: 20px;
 }
 
 .header__burger {
   background: url(../../images/icon-burger.svg) no-repeat transparent;
-  width: 2.8rem;
-  height: 2.8rem;
+  width: 28px;
+  height: 28px;
   background-position: 50%;
   cursor: pointer;
   border: none;
   outline: none;
   padding: 0;
-  margin-left: 2.8rem;
+  margin-left: 28px;
 }

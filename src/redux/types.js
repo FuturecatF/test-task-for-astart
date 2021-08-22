@@ -1,0 +1,3 @@
+export const REQUEST_CARDS = 'GET/REQUEST_CARDS';
+export const FETCH_CARDS = 'POST/FETCH_CARDS';
+export const SHOW_ORDER = 'ORDER/SHOW_ORDER';
