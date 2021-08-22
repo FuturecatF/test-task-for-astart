@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/test-task-for-astart/static/css/main.b9761858.chunk.css",
+    "main.js": "/test-task-for-astart/static/js/main.2568347a.chunk.js",
+    "main.js.map": "/test-task-for-astart/static/js/main.2568347a.chunk.js.map",
+    "runtime-main.js": "/test-task-for-astart/static/js/runtime-main.84610b86.js",
+    "runtime-main.js.map": "/test-task-for-astart/static/js/runtime-main.84610b86.js.map",
+    "static/js/2.32168010.chunk.js": "/test-task-for-astart/static/js/2.32168010.chunk.js",
+    "static/js/2.32168010.chunk.js.map": "/test-task-for-astart/static/js/2.32168010.chunk.js.map",
+    "static/js/3.92734d38.chunk.js": "/test-task-for-astart/static/js/3.92734d38.chunk.js",
+    "static/js/3.92734d38.chunk.js.map": "/test-task-for-astart/static/js/3.92734d38.chunk.js.map",
+    "index.html": "/test-task-for-astart/index.html",
+    "static/css/main.b9761858.chunk.css.map": "/test-task-for-astart/static/css/main.b9761858.chunk.css.map",
+    "static/js/2.32168010.chunk.js.LICENSE.txt": "/test-task-for-astart/static/js/2.32168010.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/test-task-for-astart/static/media/FiraSans-Regular.faee4bd7.woff2",
+    "static/media/App.css": "/test-task-for-astart/static/media/background-body.d64fcfdd.png",
+    "static/media/Header.css": "/test-task-for-astart/static/media/icon-burger.3d1ff9ea.svg",
+    "static/media/OrderItemPopup.css": "/test-task-for-astart/static/media/icon-close.530a04d6.svg",
+    "static/media/OrderListPopup.css": "/test-task-for-astart/static/media/icon-filter.322691e3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84610b86.js",
+    "static/js/2.32168010.chunk.js",
+    "static/css/main.b9761858.chunk.css",
+    "static/js/main.2568347a.chunk.js"
+  ]
+}
